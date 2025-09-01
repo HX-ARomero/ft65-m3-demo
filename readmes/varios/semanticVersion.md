@@ -1,6 +1,6 @@
 # 🎯Semantic Versioning (SemVer) - Resumen
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
 
 - Semantic Versioning (SemVer) es un sistema de control de versiones para software que utiliza una secuencia de números separados por puntos (mayor.menor.parche) para identificar diferentes versiones del software de manera clara y consistente. Este sistema ayuda a los desarrolladores a entender el tipo de cambios que se han realizado en una nueva versión de un software.
 - La especificación de Semantic Versioning se puede encontrar en [semver.org](https://semver.org/), y se sigue comúnmente en la gestión de versiones de paquetes en lenguajes de programación como JavaScript (npm), Python (pip), y muchos otros.
@@ -41,4 +41,4 @@
 
 ---
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)

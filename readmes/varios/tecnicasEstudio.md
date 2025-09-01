@@ -1,6 +1,6 @@
 # Técnicas de Estudio
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
 
 > técnicas populares de gestión del tiempo y productividad, incluyendo los cuadrantes de Stephen Covey, Pomodoro, el pájaro carpintero y otras útiles.
 
@@ -77,4 +77,4 @@ Objetivo:
 
 ---
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)

@@ -5,7 +5,7 @@
 <hr>
 <br>
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
 
 [Visita mi LinkedIn](www.linkedin.com/in/ariel-alejandro-romero-fullstack-developer)
 
@@ -425,4 +425,4 @@ console.log(array2);
 
 ---
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)

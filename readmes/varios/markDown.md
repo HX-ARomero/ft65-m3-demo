@@ -1,6 +1,6 @@
 # MarkDown
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
 
 # 📘 Guía completa de Markdown
 
@@ -139,4 +139,4 @@ Markdown puede variar ligeramente según la plataforma (GitHub, VS Code, Navegad
 
 ---
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
