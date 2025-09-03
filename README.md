@@ -18,12 +18,16 @@
 ## Material Extra - Hands On
 
 ### 01. TypeScript I
+
 - [JavaScript](./readmes/01-JavaScript/01-JavaScript.md)
 - [Errores en Tiempo de Ejecución](./readmes/01-JavaScript/02-ErroresEjecucion.md)
 - [UseStrict en JavaScript](./readmes/01-JavaScript/03-UseStrict.md)
 - [TypeScript](./readmes/01-JavaScript/04-TypeScript.md)
 
 ### 02. TypeScript II
+
+- [Resumen de TypeScript](./readmes/02-TypeScript/01-TypeScript.md)
+- [Interfaces y Tipoos personalizados](./readmes/02-TypeScript/02-Interfaces%20y%20Tipos.md)
 
 ### 03. TypeScript & Express
 
@@ -36,4 +40,3 @@
 ### 09. React LifeCycle
 
 ### 11. React-Router-Dom
-
