@@ -31,6 +31,13 @@
 
 ### 03. TypeScript & Express
 
+- [Flow de Express](./readmes/03-Express/express.md)
+- [DTO: Data Transfer Object](./readmes/03-Express/dto.md)
+
+### 04. Fundamentos de SQL
+
+- [SQL: Structured Query Language](./readmes/04-SQL/sql.md)
+
 ### 05. TypeORM
 
 ### 07. React Intro
