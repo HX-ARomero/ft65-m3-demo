@@ -40,6 +40,8 @@
 
 ### 05. TypeORM
 
+- [TypeORM](./readmes/05-TypeORM/TypeORM.md)
+
 ### 07. React Intro
 
 ### 08. React DataFlow
