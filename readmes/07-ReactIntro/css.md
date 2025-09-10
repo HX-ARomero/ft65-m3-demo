@@ -13,7 +13,8 @@
 - **Herramientas y Ecosistema:**
   - Compatible con herramientas y bibliotecas existentes como Sass, LESS, y frameworks como Bootstrap.
 - **Separación de Preocupaciones:** - Mantiene la separación entre el diseño (CSS) y la lógica (JavaScript).
-  **DESVENTAJAS:**
+ 
+**DESVENTAJAS:**
 - **Scoped Styles:**
   - No hay un scoping automático de estilos, lo que puede causar conflictos de estilo y problemas de especificidad.
 - **Mantenimiento:**
@@ -30,7 +31,8 @@
 - **Dinamismo:**
   - Facilita la aplicación de estilos dinámicos basados en el estado o las props del componente.
 - **Carga Condicional:** - Los estilos se aplican solo cuando el componente está en el DOM, reduciendo la carga inicial de CSS.
-  **DESVENTAJAS:**
+
+**DESVENTAJAS:**
 - **Repetición de Código:**
   - Puede haber repetición de estilos comunes en varios componentes.
 - **Legibilidad:**
@@ -47,7 +49,8 @@
 - **Modularidad:**
   - Facilita la creación de estilos modulares y reutilizables.
 - **Clasificaciones Unicas:** - Genera nombres de clases únicos, lo que evita colisiones de nombres.
-  **DESVENTAJAS:**
+
+**DESVENTAJAS:**
 - **Configuración:**
   - Requiere configuración adicional en el build (por ejemplo, Webpack).
 - **Curva de Aprendizaje:**
@@ -66,7 +69,8 @@
 - **Legibilidad y Mantenimiento:**
   - Mejora la legibilidad y el mantenimiento del código al mantener los estilos junto con el componente.
 - **Tematización:** - Facilita la creación de temas y su aplicación a lo largo de la aplicación.
-  **DESVENTAJAS:**
+
+**DESVENTAJAS:**
 - **Performance:**
   - Puede tener un impacto en el rendimiento debido a la necesidad de generar y adjuntar estilos en tiempo de ejecución.
 - **Curva de Aprendizaje:**
