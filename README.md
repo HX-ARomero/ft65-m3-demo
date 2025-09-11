@@ -50,6 +50,16 @@
 
 ### 08. React DataFlow
 
+- [Props](./readmes/08-DataFlow/Props.md)
+- [Estados](./readmes/08-DataFlow/Estados.md)
+
 ### 09. React LifeCycle
 
 ### 11. React-Router-Dom
+
+## Buenas Prácticas
+
+- [Buenas Prácticas 01](./readmes/buenasPracticas/01.md)
+- [Buenas Prácticas 02](./readmes/buenasPracticas/02.md)
+- [Buenas Prácticas 03](./readmes/buenasPracticas/03.md)
+- [Buenas Prácticas 04](./readmes/buenasPracticas/04.md)
