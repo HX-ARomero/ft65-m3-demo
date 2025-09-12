@@ -63,3 +63,7 @@
 - [Buenas Prácticas 02](./readmes/buenasPracticas/02.md)
 - [Buenas Prácticas 03](./readmes/buenasPracticas/03.md)
 - [Buenas Prácticas 04](./readmes/buenasPracticas/04.md)
+- [Buenas Prácticas 05](./readmes/buenasPracticas/05.md)
+- [Buenas Prácticas 06](./readmes/buenasPracticas/06.md)
+- [Buenas Prácticas 07](./readmes/buenasPracticas/07.md)
+- [Buenas Prácticas 08](./readmes/buenasPracticas/08.md)
