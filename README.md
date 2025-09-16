@@ -14,6 +14,8 @@
   - [El mundo de la Mecanografía](https://www.edclub.com/es/library/el-mundo-de-la-mecanograf%C3%ADa)
   - [Aprende Mecanografía](https://www.mecanografia-online.com/)
   - [Club de Mecanografía](https://www-typingclub-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+- Datos Curiosos
+  - [Datos Curiosos sobre Programación](./readmes/varios/datos.md)
 
 ## Material Extra - Hands On
 
@@ -55,7 +57,20 @@
 
 ### 09. React LifeCycle
 
+- [CORS](./readmes/09-LifeCycle/Cors.md)
+- [React LyfeCycle & useEffect](./readmes/09-LifeCycle/useEffect.md)
+
+### 10. React Forms
+
+- [Formularios en React](./readmes/10-Forms/Forms.md)
+
 ### 11. React-Router-Dom
+
+- [React-Router-DOM](./readmes/11-ReactRouterDOM/)
+- [API de DragonBall: para practicar Routing](./demos/dragon_ball-boiler/)
+  - Ya se encuentran creados todos las Vistas y Componentes.
+  - Aplicar React-Router-DOM para el Routing.
+- [API de DragonBall Resuelta](./demos/dragon_ball-resuelto/)
 
 ## Buenas Prácticas
 
