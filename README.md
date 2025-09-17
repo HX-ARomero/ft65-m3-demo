@@ -72,6 +72,14 @@
   - Aplicar React-Router-DOM para el Routing.
 - [API de DragonBall Resuelta](./demos/dragon_ball-resuelto/)
 
+### 12. React Context
+
+- [React Context](./readmes/12-ReactContext/ReactContext.md)
+
+### Repaso
+
+- [Simulacro de Checkpoint](./readmes/varios/choice.md)
+
 ## Buenas Prácticas
 
 - [Buenas Prácticas 01](./readmes/buenasPracticas/01.md)
