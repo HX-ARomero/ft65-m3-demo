@@ -1,5 +1,9 @@
 # REPOSITORIO DEMO COHORTE Web FT65 MÓDULO 3
 
+## 🎉🎉 REGALOS: FIN DEL MÓDULO 3 ¡¡¡FELICIDADES EQUIPO!!! 🎉🎉
+
+- [Links a documentación, páginas y recursos útiles](./readmes/varios/regalos.md)
+
 ## Material Extra - Varios
 
 - [Semantic Version](./readmes/varios/semanticVersion.md)
